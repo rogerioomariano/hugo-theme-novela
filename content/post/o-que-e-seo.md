@@ -2,7 +2,7 @@
 authors = ["Rogério Mariano"]
 date = 2020-06-01T03:00:00Z
 excerpt = "o que é SEO rsrsrsrsrs"
-hero = "/static/images/o-que-e-seo.webp"
+hero = "/o-que-e-seo.webp"
 title = "O que é SEO?"
 
 +++
