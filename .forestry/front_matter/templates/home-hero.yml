@@ -2,12 +2,14 @@
 label: Home Hero
 hide_body: true
 fields:
-- name: heading
+- name: heading_TSETSETSETSETE
   type: text
   config:
-    required: false
-  label: Heading
-  description: The text displayed in the hero
+    required: true
+  label: Heading TESTSTSETESTESE
+  description: fsaFDSFDSF AFDSF DF ASDF SThe text displayed in the hero
+  hidden: true
+  default: TESTESTSETSET EST
 - name: maxWidthPX
   type: number
   label: Max Width
