@@ -1,7 +1,6 @@
 +++
 authors = []
 date = 2020-06-01T03:00:00Z
-draft = true
 excerpt = "o que é SEO rsrsrsrsrs"
 hero = "/static/images/o-que-e-seo.webp"
 title = "O que é SEO?"
