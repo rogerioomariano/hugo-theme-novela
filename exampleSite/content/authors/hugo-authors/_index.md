@@ -1,13 +1,13 @@
 ---
-title: Hugo Authors
+title: Dennis Brotzky
 bio: |
   Written by You. This is where your author bio lives. Share your work, your
   joys and of course, your Twitter handle.
-avatar: /images/profile-01.jpeg
+avatar: /images/dennis-brotzky.jpg
 featured: true
 social:
-  - title: github
-    url: https://github.com
+  - title: unsplash
+    url: https://unsplash.com
   - title: github
     url: https://github.com
   - title: github
